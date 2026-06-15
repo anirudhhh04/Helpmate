@@ -7,7 +7,7 @@ The main objective of HelpMate is to reduce the time and effort required to find
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
