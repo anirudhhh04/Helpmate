@@ -5,7 +5,6 @@ HelpMate is a web-based scheduling and service-booking platform that connects us
 
 The main objective of HelpMate is to reduce the time and effort required to find reliable local services while providing an organized appointment management system for both users and professionals.
 
----
 
 ## Tech Stack
 
